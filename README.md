@@ -26,3 +26,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://learnfast.co.za/Library/Logos/ccna%20routing%20and%20switcing.png" title="CCNA" alt="CCNA" width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+                                                                                                                                     
+https://github-readme-streak-stats.herokuapp.com/?andremarinmx
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andremarinmx&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?andremarinmx)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?andremarinmx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
