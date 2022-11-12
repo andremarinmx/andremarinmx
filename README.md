@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>Hi everyone, I'm André👋</h1>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="300" />
 </div>
 <img src=![](https://komarev.com/ghpvc/?username=andremarinmx&style=flat-square)" alt=""/>
 
