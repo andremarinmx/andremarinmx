@@ -6,7 +6,7 @@
 <img src=![](https://komarev.com/ghpvc/?username=andremarinmx&style=flat-square)" alt=""/>
 
 ### 👦 About Me
-- 🎓 Currently studying smart networks and cybersecurity UTCJ.
+- 🎓 Currently studying smart networks and cybersecurity at UTCJ.
 - 👨‍💻 Working as software developer at Johnson Controls.
 - 🏁 Graduated from the technical career in Digital Network Infrastructure at UTCJ.
 - ⏯ Studied software engineer at UACJ.
