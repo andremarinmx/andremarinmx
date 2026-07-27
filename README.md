@@ -89,14 +89,14 @@ I am open to private collaborations, contract work, and side projects. If you ar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash Scripting" width="40" height="40"/>&nbsp;
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Symbol.png" title="Power BI" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" title="Bash" alt="Bash Scripting" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" alt="Power BI" width="40" height="40"/>
 </p>
 
 #### 🌐 Networks & Operating Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://images.credly.com/images/7473760a-f0f5-48b7-b08e-599292a4e2ec/CCNA_-_Badge.png" title="Cisco CCNA" alt="Cisco CCNA" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" title="Cisco CCNA" alt="Cisco CCNA" width="40" height="40"/>
 </p>
 
 ---
