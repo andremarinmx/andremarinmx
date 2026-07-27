@@ -90,7 +90,7 @@ I am open to private collaborations, contract work, and side projects. If you ar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash Scripting" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Symbol.png" title="Power BI" alt="Power BI" width="40" height="40"/>
 </p>
 
 #### 🌐 Networks & Operating Systems
