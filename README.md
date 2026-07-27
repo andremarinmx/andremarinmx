@@ -96,7 +96,7 @@ I am open to private collaborations, contract work, and side projects. If you ar
 #### 🌐 Networks & Operating Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" title="Cisco CCNA" alt="Cisco CCNA" width="40" height="40"/>
+  <img src="https://learnfast.co.za/Library/Logos/ccna%20routing%20and%20switcing.png" title="Cisco CCNA" alt="Cisco CCNA" width="40" height="40"/>
 </p>
 
 ---
