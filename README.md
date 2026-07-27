@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi everyone, I'm André 👋</h1>
+  <h1>Hi everyone, I'm André Marín Alonso 👋</h1>
   <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="300" />
   <p>
     <img src="https://komarev.com/ghpvc/?username=andremarinmx&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -7,11 +7,12 @@
 </div>
 
 ### 👦 About Me
-- 📜 Smart Networks and Cybersecurity Engineer UTCJ.
-- 👨‍💻 Working as Software Developer at Air Distribution Technologies.
-- 🏁 Graduated from the Technical Career in Digital Network Infrastructure at UTCJ.
-- ⏯ Studied software engineer at UACJ.
-- ❤️ Lover of networks and programming.
+I am a **Smart Networks and Cybersecurity Engineer** with over three years of experience in software development, server administration, and IT infrastructure management.
+
+- 👨‍💻 Currently working as a **Full Stack Developer** at *Air Distribution Technologies*.
+- 🎓 Graduated in Smart Networks Engineering and Cybersecurity from **UTCJ**.
+- 🏆 Specialized in enterprise ERP/MES application development using **ASP.NET (C#)** and workflow automation.
+- 💻 Passionate about network infrastructure, cybersecurity, and server administration.
 
 ---
 
@@ -20,7 +21,7 @@
   <a href="https://www.linkedin.com/in/andr%C3%A9-mar%C3%ADn-354a681a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:andre707@gmail.com" target="_blank">
+  <a href="mailto:andre707.am@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/526567044744" target="_blank">
@@ -28,35 +29,71 @@
   </a>
 </p>
 
-📱 **Teléfono / WhatsApp:** <a href="tel:+526567044744">(+52) 6567044744</a>
+📱 **Phone / WhatsApp:** <a href="tel:+526567044744">+52 (656) 704 47 44</a>  
+📍 **Location:** Ciudad Juárez, Chihuahua, Mexico
 
 ---
 
 ### 🛠 Technology Stack
+
+#### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET" alt="ASP.NET" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+#### 🗄 Databases, DevOps & Tools
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash Scripting" width="40" height="40"/>
+</p>
+
+#### 🌐 Networks & Operating Systems
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://learnfast.co.za/Library/Logos/ccna%20routing%20and%20switcing.png" title="CCNA" alt="CCNA" width="40" height="40"/>
 </p>
 
 ---
 
-### 🏆 My GitHub Achievements
+### 📁 Featured Projects
+- **MRO Purchasing ERP:** Developed an ERP for purchasing MRO, covering requisitions, purchase orders, receipts, material outputs, and analysis reports.
+- **AS400 Process Automation:** Automated capture processes using C# scripts that simulate human interaction to control the ERP (AS400).
+- **KPI Management System:** Developed a management system for goal planning, aimed at meeting the KPIs of multi-plant and global corporations.
+- **Infrastructure Automation:** Automated repetitive tasks using Python and Bash scripts in Linux environments.
+
+---
+
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/andremarinmx?label=Followers&style=for-the-badge&color=21262d&logo=github" alt="Followers" />&nbsp;
-  <img src="https://img.shields.io/github/repos/all/andremarinmx?label=Repositories&style=for-the-badge&color=21262d&logo=github" alt="Repositories" />&nbsp;
-  <img src="https://img.shields.io/github/stars/andremarinmx?label=Stars&style=for-the-badge&color=21262d&logo=github" alt="Stars" />
+  <a href="https://github.com/andremarinmx?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/andremarinmx?label=Followers&style=for-the-badge&color=21262d&logo=github" alt="Followers" />
+  </a>&nbsp;
+  <a href="https://github.com/andremarinmx?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-21262d?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>&nbsp;
+  <a href="https://github.com/andremarinmx/andremarinmx" target="_blank">
+    <img src="https://img.shields.io/github/stars/andremarinmx/andremarinmx?label=Profile%20Stars&style=for-the-badge&color=21262d&logo=github" alt="Profile Stars" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andremarinmx&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+---
+
+### ⚡ Quick Facts
+
+| Aspect | Details |
+| :--- | :--- |
+| 🚀 **Professional Focus** | Software Development, Cybersecurity, and Network Infrastructure |
+| 💻 **Operating Systems** | Linux (Ubuntu Desktop & Server) \| Windows Server (2012) \| Windows 10/11 |
+| ⚙️ **Methodologies & Workflows** | Agile (Azure DevOps) & GitHub Flow branch management |
+| 🌍 **Languages** | Spanish (Native) \| English (Intermediate 60-70%) |
