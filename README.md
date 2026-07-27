@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <h1>Hi everyone, I'm André 👋</h1>
-  <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="300" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=andremarinmx&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
 
 ### 👦 About Me
@@ -46,13 +49,14 @@
 
 ---
 
-### 🔥 My Stats
+### 🏆 My GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andremarinmx&show_icons=true&theme=dark&locale=en&cache_seconds=1800" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andremarinmx&theme=dark&cache_seconds=1800" alt="GitHub Streak" height="150" />
+  <img src="https://img.shields.io/github/followers/andremarinmx?label=Followers&style=for-the-badge&color=21262d&logo=github" alt="Followers" />&nbsp;
+  <img src="https://img.shields.io/github/repos/all/andremarinmx?label=Repositories&style=for-the-badge&color=21262d&logo=github" alt="Repositories" />&nbsp;
+  <img src="https://img.shields.io/github/stars/andremarinmx?label=Stars&style=for-the-badge&color=21262d&logo=github" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarinmx&layout=compact&theme=dark&locale=en&cache_seconds=1800" alt="Top Langs" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andremarinmx&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
