@@ -16,6 +16,41 @@ I am a **Smart Networks and Cybersecurity Engineer** with over three years of ex
 
 ---
 
+### 🎯 Freelance & Custom Projects
+I am open to private collaborations, contract work, and side projects. If you are interested in customized solutions, feel free to contact me for:
+- 🌐 **Custom Web Development:** Custom landing pages, full web applications, and internal database/management modules (ERP/MES).
+- ⚙️ **Process Automation:** Scripting (Python, Bash, C#) to automate repetitive data capture, entry, or analysis tasks.
+- 🔒 **Networking & Security Consulting:** Implementation of security standards and network connectivity planning.
+
+---
+
+### 💼 Work Experience
+
+- **Full Stack Developer** @ *Air Distribution Technologies* *(Oct 2022 - Present)*
+  - Created and maintained internal enterprise applications (ERP, MES) using ASP.NET and C#.
+  - Integrated systems with AS400 ERP for data extraction and custom web module creation.
+  - Managed projects and workflows using Microsoft Azure DevOps and GitHub Flow.
+  - Implemented Windows Server environments and SQL database optimization strategies.
+
+- **Junior Test Engineer** @ *Inventec* *(Aug 2022 - Oct 2022)*
+  - Developed Linux scripts for automated server hardware and component testing.
+  - Created custom modules in Python for process automation.
+  - Managed technical staff and performed hardware fault analysis.
+
+- **Programmer** @ *Johnson Controls* *(Apr 2022 - Aug 2022)*
+  - Developed web applications optimized for production and manufacturing processes.
+  - Handled SQL data management and provided active technical support on production lines.
+
+---
+
+### 🎓 Academic Profile
+
+- **Smart Networks Engineering and Cybersecurity** — *UTCJ* *(Aug 2022 - Apr 2024 | Graduated)*
+- **Higher Technician in Digital Network Infrastructure** — *UTCJ* *(Jan 2020 - Aug 2022 | Graduated)*
+- **Software Engineering** — *UACJ* *(Aug 2018 - Aug 2023 | Paused)*
+
+---
+
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/andr%C3%A9-mar%C3%ADn-354a681a9/" target="_blank">
@@ -54,13 +89,14 @@ I am a **Smart Networks and Cybersecurity Engineer** with over three years of ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash Scripting" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash Scripting" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
 </p>
 
 #### 🌐 Networks & Operating Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://learnfast.co.za/Library/Logos/ccna%20routing%20and%20switcing.png" title="CCNA" alt="CCNA" width="40" height="40"/>
+  <img src="https://images.credly.com/images/7473760a-f0f5-48b7-b08e-599292a4e2ec/CCNA_-_Badge.png" title="Cisco CCNA" alt="Cisco CCNA" width="40" height="40"/>
 </p>
 
 ---
