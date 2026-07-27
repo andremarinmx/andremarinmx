@@ -1,34 +1,61 @@
-
 <div id="header" align="center">
-  <h1>Hi everyone, I'm André👋</h1>
+  <h1>Hi everyone, I'm André 👋</h1>
   <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="300" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=andremarinmx&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
-<img src=![](https://komarev.com/ghpvc/?username=andremarinmx&style=flat-square)" alt=""/>
 
 ### 👦 About Me
-- 🎓 Currently studying smart networks and cybersecurity at UTCJ.
-- 👨‍💻 Working as software developer at Johnson Controls.
-- 🏁 Graduated from the technical career in Digital Network Infrastructure at UTCJ.
+- 📜 Smart Networks and Cybersecurity Engineer UTCJ.
+- 👨‍💻 Working as Software Developer at Air Distribution Technologies.
+- 🏁 Graduated from the Technical Career in Digital Network Infrastructure at UTCJ.
 - ⏯ Studied software engineer at UACJ.
-- ❤ Lover of networks and programming.
-                                                                                        
-### 🛠 Technology Stack
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Sql Server" alt="Sql Server" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://learnfast.co.za/Library/Logos/ccna%20routing%20and%20switcing.png" title="CCNA" alt="CCNA" width="40" height="40"/>&nbsp;
-</div>
+- ❤️ Lover of networks and programming.
 
-### :fire: My Stats :
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andremarinmx&theme=dark)](https://git.io/streak-stats)
-                                                                                                                                     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremarinmx)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-mar%C3%ADn-354a681a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andre707@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/526567044744" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+📱 **Teléfono / WhatsApp:** <a href="tel:+526567044744">(+52) 6567044744</a>
+
+---
+
+### 🛠 Technology Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://learnfast.co.za/Library/Logos/ccna%20routing%20and%20switcing.png" title="CCNA" alt="CCNA" width="40" height="40"/>
+</p>
+
+---
+
+### 🔥 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andremarinmx&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andremarinmx&theme=dark" alt="GitHub Streak" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarinmx&layout=compact&theme=dark" alt="Top Langs" height="150" />
+</p>
